@@ -12,8 +12,13 @@ v1 is **fully offline**. No backend. Study Rooms + leaderboards are local stubs
 behind repository interfaces so a backend can be added later.
 
 ## Design
-- Palette: green + blue. Tokens live in `ui/theme/`. Derived from the reference
-  site — never hardcode a colour in a composable.
+- Palette: **warm Claude/claude.ai palette** — cream/off-white backgrounds,
+  coral-rust accent (~#CC785C), near-black text, warm-grey borders. Full dark
+  mode (warm charcoals). This is a deliberate override of the green+blue in the
+  PDFs, decided by the user 2026-07-15. Tokens live in `ui/theme/` — never
+  hardcode a colour in a composable.
+- Design language modelled on the claude.ai app UI: generous whitespace, soft
+  rounded cards, large calm headings, minimal chrome.
 - One screen per feature. Navigation-Compose routes in `ui/navigation/`.
 
 ## Hard rules

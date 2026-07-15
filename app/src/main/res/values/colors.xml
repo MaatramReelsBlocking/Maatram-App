@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mirrors ui/theme/Color.kt. Only for XML-level (window/launcher) use. -->
+    <color name="cream_background">#FAF9F5</color>
+    <color name="coral_rust">#CC785C</color>
+</resources>

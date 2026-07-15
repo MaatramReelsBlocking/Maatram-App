@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Compose owns all in-app styling; this theme only covers the pre-Compose
+      window (launch), so it just matches the cream background to avoid a flash.
+    -->
+    <style name="Theme.Maatram" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

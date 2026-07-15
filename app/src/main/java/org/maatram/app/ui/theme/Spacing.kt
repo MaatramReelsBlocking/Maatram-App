@@ -1,0 +1,19 @@
+package org.maatram.app.ui.theme
+
+import androidx.compose.ui.unit.dp
+
+/**
+ * Spacing rhythm. Use these instead of literal dp values in composables so the
+ * whole app breathes on one scale.
+ */
+object Spacing {
+    val xs = 4.dp
+    val sm = 8.dp
+    val md = 16.dp
+    val lg = 24.dp
+    val xl = 32.dp
+    val xxl = 48.dp
+
+    /** Standard horizontal inset for screen content. */
+    val screenHorizontal = 20.dp
+}

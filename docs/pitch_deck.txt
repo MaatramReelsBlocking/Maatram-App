@@ -1,0 +1,187 @@
+        Maatram
+              ACTION VALUE
+
+
+The Ultimate Screen-Time Reduction Ecosystem
+  The Attention Crisis
+
+Students are trapped in inﬁnite scrolling
+loops (Reels/TikTok), destroying cognitive
+control.
+  -0.45 Correlation: Between reels and
+  attention span.
+ Academic Burnout: Instant gratiﬁcation
+ leads to severe task procrastination.
+
+  3.5 Hours: Avg. daily reels consumption.
+ The 10-Second Hook
+
+
+
+
+10s
+                      A Friction-First Ecosystem
+                      Maatram isn't just another blocker. It’s an
+                      app designed to intercept unconscious
+TO BREAK THE LOOP
+                      scrolling and convert distraction into
+                      immediate cognitive value.
+The Friction Layer
+
+
+Psychological Intercept                              Intentional Logging: "What is your
+ Instead of hard blocks that cause frustration, we   goal right now?" forces the user out
+ introduce intentional mental friction:
+                                                     of autopilot.
+
+
+                                The Mandatory Pause: A 5-10 second
+                                timer triggered upon opening a restricted
+                                app.
+Hard Lock & Redirection
+
+
+
+
+  Hard Lock Mode                                        Dopamine Replacement
+
+Target times are absolute. Once the daily limit is    Don't just block; replace. Attempted social access
+breached, the settings lock completely—no overrides   triggers focus-inducing exercises (white noise,
+allowed, ensuring students stick to their original    breathing) that reward the brain with healthy dopamine
+commitments.                                          points.
+Peer Accountability
+
+
+
+                                   Strike System                      Open Source
+
+                                   If one person breaks focus, the    Built for the community. Integrated
+                                   entire group gets a notiﬁcation.   with open-source group calling for
+                                   Peer pressure used for good.       maximum privacy.
+Study Rooms
+
+Students join with synced timers
+and integrated group calls.
+Quantifying Progress
+
+
+
+
+           Sunday Summaries: Automated PDF reports showing exactly how many minutes were
+           saved.
+Gamified Ecosystem
+
+
+
+
+Leaderboards                       Daily Streaks                     Widgets
+
+Climb ranks based on screen time   Maintain streaks to earn rare     Live home-screen widgets
+reduction and focus session        digital badges and "Class Hero"   comparing productive time vs.
+completion.                        certiﬁcates.                      social media waste.
+ Stakeholder Value Matrix
+
+
+
+
+Stakeholder   Core Value Delivery                                   Feature Link
+
+
+Students      Reclaim focus, reduce anxiety, and gamify success.    Leaderboards & Study Rooms
+
+
+Parents       Non-invasive visibility into digital wellbeing.       Weekly Progress PDF
+
+
+Teachers      Classroom-wide challenges to foster academic focus.   Class Certiﬁcates
+  Comparative Analysis
+
+
+
+Criteria            Standard Blockers           Maatram
+
+
+Bypass Difﬁculty    Easy to disable/ignore      Hard Lock Mode (No Override)
+
+
+Affordability       High premium paywalls       Inclusive Micro-Fee Model
+
+
+User Sentiment      Restrictive & Frustrating   Habit Substitution & Rewards
+
+
+Institutional Fit   Individual focus only       Collaborative School Challenges
+Feature                                     micro fee model
+Monetization Strategy
+Screen Time Tracking
+Offer advanced analytics, yearly trends, and personalized insights through a premium subscription.
+Friction Layer
+Provide AI-powered intervention messages and personalized focus prompts as a premium feature.
+Hard Lock Mode
+Unlock unlimited schedules, strict lock modes, and advanced customization with a Pro plan.
+Mood Tracking
+Offer AI-based mood analysis, habit detection, and personalized recommendations.
+Productivity Score
+Provide detailed productivity reports and long-term performance tracking.
+Pomodoro Timer
+Provide AI-powered adaptive focus schedules and advanced timer customization.
+Deep Work Mode
+Unlock unlimited deep work sessions and distraction-free focus modes.
+Focus Music
+Offer premium focus music, ambient sounds, and exclusive audio libraries.
+Streaks & Badges
+Sell exclusive badges, achievements, themes, and cosmetic customizations.
+Goal Tracking
+Provide AI-assisted goal planning, reminders, and personalized productivity coaching.
+Feature              Monetization Strategy
+
+
+
+Weekly PDF Reports   Generate professional PDF reports with advanced insights, email summaries, and progress charts.
+
+
+
+Widgets              Sell premium customizable widgets, themes, and home-screen layouts.
+
+
+
+Study Rooms          Offer unlimited study rooms, voice/video calls, and advanced collaboration tools.
+
+
+
+Leaderboards         Enable private, school, and organization-specific leaderboards through premium plans.
+
+
+
+Class Challenges     License this feature to schools and educational institutions.
+
+
+
+Parent Dashboard     Offer detailed student progress reports through a monthly parent subscription.
+
+
+
+Teacher Dashboard    Include classroom analytics and monitoring tools in school licensing plans.
+
+
+
+Chrome Extension     Offer multi-device synchronization and advanced blocking controls in the Pro plan.
+
+
+
+Time Saved Graphs    Unlock lifetime analytics, detailed graphs, and long-term productivity trends.
+
+
+
+Habit Predictions    Use AI to predict distraction patterns and suggest personalized improvements.
+     Questions?
+90-Day Action Plan: Baseline Survey School Trial Scaling
+Team members:          10 B
+                       SSVM School of Excellence
+
+1.Ridhun Sankar
+2.A.Ram Saravanan
+3.Vivan.V.R
+4.Keshawa Wardhana.K
+5.Aswanth Kumar J
+

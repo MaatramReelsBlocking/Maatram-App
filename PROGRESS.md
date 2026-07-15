@@ -2,9 +2,9 @@
 
 Legend: [ ] not started · [~] in progress · [x] verified + approved + pushed
 
-- [ ] Environment check
-- [ ] REQUIREMENTS.md reviewed and approved
-- [ ] Scaffold builds clean (empty project)
+- [x] Environment check
+- [x] REQUIREMENTS.md reviewed and approved
+- [~] Scaffold builds clean (empty project)
 - [ ] 0. Splash / intro (interactive petals)
 - [ ] 1. Onboarding + permissions
 - [ ] 2. Home dashboard
